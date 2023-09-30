@@ -1,5 +1,5 @@
 # HealthTrack
-START THE PROGRAM BY RUNNING THE LOGIN.JSP FILE, NOT THE INDEX.
+Initial Information: Start the program by running the login.jsp file, not the index.
 
 Project Overview:
 This project is a health application designed for recording weight, water consumption, food intake, physical activities performed, measured blood pressure, and calculating body mass index (BMI). 
